@@ -1,4 +1,4 @@
-# Surfs Up!
+# CLIMATE ANALYSIS OF HONOLULU
 
 # Objective
 Climate analysis of Honolulu, Hawaii using Flask and SQLAlchemy. The analysis is completed in following steps using SQLAlchemy ORM queries, Pandas, and Matplotlib.
