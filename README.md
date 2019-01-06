@@ -23,7 +23,7 @@ Climate analysis of Honolulu, Hawaii using Flask and SQLAlchemy. The analysis is
 
  ## Step 2 - Climate App
 
-* Use FLASK to create your routes.
+* Use FLASK to create routes.
 
 ### Routes
 
